@@ -18,6 +18,7 @@
 }
 
 .columns-container {
+  flex-wrap: wrap;
   display: flex;
   flex-direction: row;
   width: 100%;
